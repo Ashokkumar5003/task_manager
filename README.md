@@ -74,7 +74,7 @@ For testing purposes, a dummy login system is provided. Use the following creden
 - **Email**: `testuser@example.com`
 - **Password**: `password123`
 
-## Saple Output
+## Sample Output
 ![Sample output1](https://github.com/user-attachments/assets/7b8d3d4f-9e1f-47b1-b29c-9e72323a4fe9)
 
 ![Sample output2](https://github.com/user-attachments/assets/8f3f003f-f144-4a7b-849c-90bc9bff4ce3)

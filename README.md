@@ -22,12 +22,12 @@ task_manager_cli/
 
 ### 1. Clone the Repository:
 ```bash
-git clone https://github.com/yourusername/task_manager_cli.git
+git clone https://github.com/Ashokkumar5003/task_manager
 ```
 
 ### 2. Navigate to the Project Directory:
 ```bash
-cd task_manager_cli
+cd task_manager
 ```
 
 ### 3. Run the Application:
@@ -90,7 +90,7 @@ We welcome contributions! If you’d like to add new features, fix bugs, or impr
 
 **Ashok kumar S**  
 - GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [your-linkedin-profile](https://linkedin.com/in/yourprofile)
+- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/ashokit1012/)
 
 ---
 

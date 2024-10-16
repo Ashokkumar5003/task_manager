@@ -50,8 +50,9 @@ Task Manager Menu:
 #### Example Workflow:
 - **Adding a Task**: Choose option `1`, enter the task title, and the task will be added to your list.
 - **Viewing Tasks**: Choose option `2` to see all your tasks with their completion status.
-- **Marking as Complete**: Select option `4`, and enter the task ID to mark it as done.
 - **Deleting a Task**: Select option `3` and provide the task ID to remove it from the list.
+- **Marking as Complete**: Select option `4`, and enter the task ID to mark it as done.
+- **Save and Exi**: Exiting the Program
 
 ## ⚙️ System Requirements
 

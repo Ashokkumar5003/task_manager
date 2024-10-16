@@ -53,9 +53,13 @@ Task Manager Menu:
 - **Marking as Complete**: Select option `4`, and enter the task ID to mark it as done.
 - **Deleting a Task**: Select option `3` and provide the task ID to remove it from the list.
 
-## 🔧 Requirements
-- Python 3.x
-- Basic familiarity with the command line
+## ⚙️ System Requirements
+
+- **🐍 Python 3.x**: Ensure you have Python installed on your system. You can download the latest version from [python.org](https://www.python.org/downloads/).
+- **💻 Code Editor**: Use a modern code editor for development, such as:
+  - [**PyCharm**](https://www.jetbrains.com/pycharm/) for a feature-rich Python IDE.
+  - [**Visual Studio Code**](https://code.visualstudio.com/) for a lightweight yet powerful editor.
+  
 
 ## 💡 Future Enhancements
 - **Task Search**: Filter tasks by status (completed, pending).
@@ -69,11 +73,36 @@ For testing purposes, a dummy login system is provided. Use the following creden
 - **Email**: `testuser@example.com`
 - **Password**: `password123`
 
-## 👨‍💻 Contributing
-We welcome contributions to this project! Feel free to submit pull requests to improve the functionality, UI, or documentation.
+## 💡 Contributing
 
+We welcome contributions! If you’d like to add new features, fix bugs, or improve documentation, feel free to fork the project and create a pull request.
 
-### 📬 Contact
-For any inquiries or feedback, reach out to [ashokit1012@gmail.com].
+### Steps to Contribute:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -m 'Add new feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Create a pull request.
+
+---
+
+## 👤 Author
+
+**Ashok kumar S**  
+- GitHub: [@yourusername](https://github.com/yourusername)
+- LinkedIn: [your-linkedin-profile](https://linkedin.com/in/yourprofile)
+
+---
+
+### 🎉 Thank you for checking out this project! Happy task managing! 🎉
+
+---
+
+This README is designed to **grab attention** with the use of **emojis**, **badges**, and a **well-structured layout**. It incorporates:
+- **Clear instructions** on installation and usage.
+- **Feature highlights** for quick insights.
+- **Contribution guidelines** to welcome developers.
+- **Future enhancements** to show the project’s potential.
+
 
 

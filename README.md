@@ -90,7 +90,7 @@ We welcome contributions! If you’d like to add new features, fix bugs, or impr
 
 **Ashok kumar S**  
 - GitHub: [@Ashokkumar5003](https://github.com/Ashokkumar5003)
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/ashokit1012/)
+- LinkedIn: [Ashok kumar S ](https://www.linkedin.com/in/ashokit1012/)
 
 ---
 

@@ -89,7 +89,7 @@ We welcome contributions! If you’d like to add new features, fix bugs, or impr
 ## 👤 Author
 
 **Ashok kumar S**  
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@yourusername](https://github.com/Ashokkumar5003)
 - LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/ashokit1012/)
 
 ---

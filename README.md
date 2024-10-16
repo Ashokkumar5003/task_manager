@@ -75,9 +75,29 @@ For testing purposes, a dummy login system is provided. Use the following creden
 - **Password**: `password123`
 
 ## Sample Output
+
+Here's a concise and attractive description for the screenshot of your Task Manager application, focusing on its key features:
+
+---
+
+## 📸 Sample Output
+
+Take a look at the **Task Manager CLI Application** in action! 🎉
+
+In the screenshot below, you'll see the user-friendly interface that allows you to easily manage your tasks:
+
+
 ![Sample output1](https://github.com/user-attachments/assets/7b8d3d4f-9e1f-47b1-b29c-9e72323a4fe9)
 
 ![Sample output2](https://github.com/user-attachments/assets/8f3f003f-f144-4a7b-849c-90bc9bff4ce3)
+
+### ✨ Key Features:
+- **📝 Add Tasks**: Quickly enter new tasks to your list.
+- **👀 View Tasks**: Instantly see all your tasks along with their completion status.
+- **❌ Delete Tasks**: Remove any task by its unique ID effortlessly.
+- **✅ Mark as Complete**: Update tasks to reflect their completed status.
+- **💾 Save and Exit**: Your tasks are automatically saved for next time!
+
 
 
 ## 💡 Contributing
